@@ -8,6 +8,3 @@ All you will need to do is copy/paste the xml file into the Scrapebox definition
 ~\scrapebox64\Plugins\ArticleScraper\Definitions
 
 Run Scrapebox Article Scraper Plugin and select the site you need to scrape.
-
-These config files are brought to you by me, the SerialScraper.
-to see some of my own scrapes, visit https://serialscraper.com
