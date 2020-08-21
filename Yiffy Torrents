@@ -1,0 +1,37 @@
+[YIFY movie title]
+Before1=%3Ch1%20itemprop%3D%22name%22%3E
+After1=%3C%2Fh1%3E
+Before2=
+After2=
+Before3=
+After3=
+Width=150
+Type=0
+UseRegex=0
+RegEx=
+
+[YIFY movie links]
+Before1=%3Cem%20class%3D%22pull-left%22%3E
+After1=%3C%2Fspan%3E
+Before2=
+After2=
+Before3=
+After3=
+Width=150
+Type=2
+UseRegex=0
+RegEx=
+
+[EXPORTPARAMETERS]
+ExportMode=0
+ExportEncoding=3
+ExportPrefix=<DATE>_<TIME>_<NUM>
+ExportFolder=C:\Users\Folke\Desktop\Serial Scaper\temp
+ExportFilenameField=0
+ExportSeparator=<LF>
+ExportFileExist=1
+ExportFields=0,1
+
+[Other]
+DoNotApplyCharSet=0
+
