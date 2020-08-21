@@ -1,0 +1,37 @@
+﻿[wplocker title]
+Before1=%3Ch1%20class%3D%22entry-title%22%3E
+After1=%3Cspan%20class%3D%22nulleds%22%3E
+Before2=
+After2=
+Before3=
+After3=
+Width=150
+Type=0
+UseRegex=0
+RegEx=
+
+[wplocker file urls]
+Before1=%3C!--QuoteEBegin--%3E
+After1=%3C!--QuoteEnd--%3E
+Before2=
+After2=
+Before3=
+After3=
+UseRegex=0
+RegEx=
+Width=150
+Type=2
+
+[EXPORTPARAMETERS]
+ExportMode=0
+ExportEncoding=3
+ExportPrefix=<DATE>_<TIME>_<NUM>
+ExportFolder=C:\Users\Folke\Desktop\Serial Scaper\tmp
+ExportFilenameField=0
+ExportSeparator=<LF>
+ExportFileExist=1
+ExportFields=0,1
+
+[Other]
+DoNotApplyCharSet=0
+
